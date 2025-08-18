@@ -15,4 +15,6 @@ Slowing of brain activity observed in electroencephalography (EEG) recordings is
 ## Citation
 Electroencephalogram Data-Based Analysis of Paroxysmal Slow Wave Events Patterns in Brain Pathologies - EMBS 2025 paper
 © 2025 IEEE. Personal use of this material is permitted. Permission from IEEE must be obtained for all other uses, including reprinting, republishing, creating derivative works, or for commercial purposes.
+This is the accepted version of the paper submitted to IEEE EMBS 2025. 
+The final published version will be available on IEEE Xplore with a DOI link once published.
 
