@@ -5,7 +5,7 @@ Abstract :
 Slowing of brain activity observed in electroencephalography (EEG) recordings is normal under resting conditions such as sleep [1]. However, in a series of studies recently described a new pattern of cortical slowing in patients with epilepsy and Alzheimer's disease [2], [3]  composed of transient paroxysmal slowing of the network (PSWE). These events were defined with median power frequency (MPF) less than 6 [Hz] and duration longer than 5 [sec]. In this research, we are using clinical EEG recordings from the Temple University and Bonn University databases. We aim to: (1) Characterize the temporal and spatial characteristics of PSWEs in patients with epilepsy; (2) Identify PSWEs features that will assist in the diagnosis of epilepsy, specifically drug-resistant epilepsy; (3) Identify the sensitivity and specificity of selected combination of features that will help in differentiating between patients with epilepsy and other brain disorders (e.g. Alzheimer's disease, mood disorders). 
 
 
-
+Publication: S. Amara Ganon, A. Friedman, Y. Zigel, "EEG Data-Based Analysis of Paroxysmal Slow Wave Events Patterns in Brain Pathologies", IEEE Engineering in Medicine and Biology Society (EMBS). https://ieeexplore.ieee.org/document/11254025
 
 
 [1]	L. Sörnmo, Bioelectrical signal processing in cardiac and neurological applications. in Biomedical Engineering. Boston ; Elsevier Academic Press, 2005.
