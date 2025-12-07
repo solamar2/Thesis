@@ -6,7 +6,7 @@ Slowing of brain activity observed in electroencephalography (EEG) recordings is
 
 
 ## Publication: 
-S. Amara Ganon, A. Friedman, Y. Zigel, [EEG Data-Based Analysis of Paroxysmal Slow Wave Events Patterns in Brain Pathologies"](https://ieeexplore.ieee.org/document/11254025), IEEE Engineering in Medicine and Biology Society (EMBS)
+S. Amara Ganon, A. Friedman, Y. Zigel, [EEG Data-Based Analysis of Paroxysmal Slow Wave Events Patterns in Brain Pathologies](https://ieeexplore.ieee.org/document/11254025), IEEE Engineering in Medicine and Biology Society (EMBS)
 
 
 ## Citation
